@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1201 filtered ascend = 13 plain-ascend = -6 cost=2036 energy=0.0kwh time=3m 19s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>LalaunB</name>
+  <trkseg>
+   <trkpt lat="6.465855" lon="100.498116"><ele>73.25</ele></trkpt>
+   <trkpt lat="6.465611" lon="100.498257"><ele>74</ele></trkpt>
+   <trkpt lat="6.464547" lon="100.498829"><ele>71.25</ele></trkpt>
+   <trkpt lat="6.464005" lon="100.499112"><ele>66</ele></trkpt>
+   <trkpt lat="6.463818" lon="100.49922"><ele>65</ele></trkpt>
+   <trkpt lat="6.463558" lon="100.49936"><ele>64</ele></trkpt>
+   <trkpt lat="6.463562" lon="100.499368"><ele>63.5</ele></trkpt>
+   <trkpt lat="6.463604" lon="100.499452"><ele>63.5</ele></trkpt>
+   <trkpt lat="6.463693" lon="100.499623"><ele>62</ele></trkpt>
+   <trkpt lat="6.463766" lon="100.499781"><ele>61</ele></trkpt>
+   <trkpt lat="6.463824" lon="100.499924"><ele>60</ele></trkpt>
+   <trkpt lat="6.463856" lon="100.500027"><ele>59.5</ele></trkpt>
+   <trkpt lat="6.463904" lon="100.500006"><ele>60.5</ele></trkpt>
+   <trkpt lat="6.464138" lon="100.49991"><ele>60.5</ele></trkpt>
+   <trkpt lat="6.464449" lon="100.499784"><ele>60.5</ele></trkpt>
+   <trkpt lat="6.464713" lon="100.49969"><ele>60.5</ele></trkpt>
+   <trkpt lat="6.465119" lon="100.499537"><ele>61.25</ele></trkpt>
+   <trkpt lat="6.465904" lon="100.499216"><ele>63.25</ele></trkpt>
+   <trkpt lat="6.466225" lon="100.499084"><ele>63</ele></trkpt>
+   <trkpt lat="6.466694" lon="100.498913"><ele>59.75</ele></trkpt>
+   <trkpt lat="6.46705" lon="100.498784"><ele>59.75</ele></trkpt>
+   <trkpt lat="6.467678" lon="100.498546"><ele>58</ele></trkpt>
+   <trkpt lat="6.467911" lon="100.498453"><ele>57.75</ele></trkpt>
+   <trkpt lat="6.468387" lon="100.49831"><ele>56.75</ele></trkpt>
+   <trkpt lat="6.468561" lon="100.498271"><ele>56.75</ele></trkpt>
+   <trkpt lat="6.468896" lon="100.49822"><ele>56.25</ele></trkpt>
+   <trkpt lat="6.469061" lon="100.498206"><ele>56</ele></trkpt>
+   <trkpt lat="6.469152" lon="100.498204"><ele>55.5</ele></trkpt>
+   <trkpt lat="6.469061" lon="100.498206"><ele>56</ele></trkpt>
+   <trkpt lat="6.469057" lon="100.497819"><ele>55.75</ele></trkpt>
+   <trkpt lat="6.469017" lon="100.497346"><ele>56.25</ele></trkpt>
+   <trkpt lat="6.468929" lon="100.497098"><ele>58</ele></trkpt>
+   <trkpt lat="6.468828" lon="100.496911"><ele>59.25</ele></trkpt>
+   <trkpt lat="6.468689" lon="100.496714"><ele>61</ele></trkpt>
+   <trkpt lat="6.468623" lon="100.496636"><ele>62</ele></trkpt>
+   <trkpt lat="6.468729" lon="100.496576"><ele>65.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
